@@ -1,7 +1,4 @@
 ---
-tags:
-  - recipe
-  - drinks/alcohol
 created: 2015-11-25T16:58:59-0500
 author: Natalie Migliarini
 source: https://www.delish.com/cooking/recipe-ideas/recipes/a44720/peppermint-hot-chocolate-recipe/
@@ -10,6 +7,7 @@ type: Recipe
 topic:
   - Drinks
 category: Recipes
+drinktype: Alcoholic
 ---
 
 # Peppermint Hot Chocolate

@@ -1,12 +1,13 @@
 ---
 title: Classic Chicken Salad
 description: This is the best chicken salad recipe with simple ingredients and lots of flavor. Serve it as a sandwich, a salad, or a wrap.
-tags: 
-- recipe 
+tags:
+  - recipe
 created_at: 2024-02-20T09:30:24+00:00
-author: 
-url: https://www.spendwithpennies.com/classic-chicken-salad-recipe/ 
+url: https://www.spendwithpennies.com/classic-chicken-salad-recipe/
 category: Recipes
+topic:
+  - Food
 ---
 
 # [Classic Chicken Salad](https://www.spendwithpennies.com/classic-chicken-salad-recipe/)

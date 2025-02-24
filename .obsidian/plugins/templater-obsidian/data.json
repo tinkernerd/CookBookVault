@@ -15,10 +15,6 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Notes",
-      "template": "Assets/Templates/Default Template.md"
-    },
-    {
       "folder": "Notes/Quick Notes",
       "template": "Assets/Templates/Quick Note Template.md"
     }
@@ -34,7 +30,8 @@
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "Assets/Templates/Insertion Template/GitHub Callout Template.md",
-    "Assets/Templates/Insertion Template/Callout Template.md"
+    "Assets/Templates/Insertion Template/Callout Template.md",
+    "Assets/Templates/Insertable/Recipes Template.md"
   ],
   "startup_templates": []
 }

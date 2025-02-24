@@ -3,8 +3,9 @@ title: Hard Apple Cider
 source: https://www.growforagecookferment.com/how-to-make-hard-cider-part-1-brew-it/
 author: Colleen Codekas
 type: Recipe
-tags:
-  - drinks/alcohol
+topic:
+  - Drinks
+drinktype: Alcoholic
 created_at: 2024-09-21 08:00
 status: Archive
 category: Recipes

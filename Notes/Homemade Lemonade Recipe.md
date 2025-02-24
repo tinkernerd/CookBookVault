@@ -1,13 +1,12 @@
 ---
 title: Homemade Lemonade Recipe
-tags:
-  - recipe
-  - "#drinks/clean"
 created: 2022-06-08T10:09:00+00:00
-author: 
 source: https://sugarspunrun.com/homemade-lemonade-recipe/
 type: Recipe
 category: Recipes
+topic:
+  - Drinks
+drinktype: Clean
 ---
 
 # Homemade Lemonade Recipe

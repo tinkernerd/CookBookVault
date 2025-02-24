@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Homepage",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -250,7 +250,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "recipe-grabber:Recipe Grabber": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
@@ -264,24 +263,30 @@
       "homepage:Open homepage": false,
       "obsidian-trash-explorer:Open trash explorer": false,
       "obsidian-git:Open Git source control": false,
+      "recipe-grabber:Recipe Grabber": false,
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Chicken Pot Pie Soup.md",
     "🏠 Homepage.md",
-    "README.md",
-    "Assets/Templates/Default Template.md",
+    "Notes/Cheesy Chicken and Dressing Casserole.md",
+    "Assets/Templates/Insertable/Recipes Template.md",
+    "Assets/Templates/Insertable",
     "Notes/The REAL Long Island Iced Tea.md",
-    "LICENSE.md",
     "Notes/Spicy-Sweet Buffalo Popcorn.md",
     "Notes/Peppermint Hot Chocolate.md",
+    "Notes/Homemade Lemonade Recipe.md",
     "Notes/Homemade Ginger Ale.md",
     "Notes/Hard Apple Cider.md",
-    "Notes/Classic Chicken Salad.md",
-    "Notes/Recipes.md",
-    "Notes/Homemade Lemonade Recipe.md",
+    "Notes/Favorite Quinoa Salad.md",
+    "Notes/Cranberry Mocktail.md",
     "Notes/Copycat Chick-fil-A Spicy Southwest Salad.md",
+    "Notes/Classic Chicken Salad.md",
+    "README.md",
+    "LICENSE.md",
+    "Notes/Recipes.md",
     "Notes",
     "untitled folder",
     "Photography.md",
@@ -293,10 +298,6 @@
     "Scripture/The Bible Books.md",
     "The Bible.md",
     "Assets/Templates/Insertion Template/Callout Template - Old.md",
-    "Assets/Templates/Insertion Template/Youtube Data Template.md",
-    "Assets/Templates/Category Templates/Bible Template.md",
-    "Assets/Templates/Daily Note Template.md",
-    "Assets/Templates/Goal Template.md",
     "Assets/Attachments/ac_90-66c.pdf",
     "Assets/Attachments/distance formula.png",
     "Assets/Attachments/FAA_Order_6850.2C.pdf",
@@ -306,7 +307,6 @@
     "Notes/Aviation/untitled folder",
     "Notes/Electrical",
     "Notes/Recipes",
-    "Notes/Photography",
     "pixel-banner-images/pixel-banner-image.png"
   ]
 }

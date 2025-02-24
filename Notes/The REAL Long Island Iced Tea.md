@@ -1,10 +1,12 @@
 ---
 title: The REAL Long Island Iced Tea
 type: Recipe
-tags:
-  - drinks/alcohol
+topic:
+  - Drinks
+drinktype: Alcoholic
 created_at: 2024-09-21 08:00
 status: Active
+category: Recipes
 ---
 
 # [The REAL Long Island Iced Tea](https://www.allrecipes.com/recipe/228491/the-real-long-island-iced-tea/)
